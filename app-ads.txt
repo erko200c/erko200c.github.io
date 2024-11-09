@@ -1,4 +1,7 @@
+# Vendedores Admob
 google.com, pub-6736396526446148, DIRECT, f08c47fec0942fa0
+
+# Vendedores de Inmob
 inmobi.com, bb6a5c41dfa24afcaa1fef0637fb9d65, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
