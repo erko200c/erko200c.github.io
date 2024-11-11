@@ -108,3 +108,6 @@ pubmatic.com, 158357, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 5444561541445527220, RESELLER, 29bc7d05d309e1bc
 rhythmone.com, 5444561541445527220, RESELLER, a670c89d4a324e47
 xandr.com, 8449, RESELLER
+
+#Vendedores Meta Facebook
+facebook.com, 1075116030526629, DIRECT, c3e20eee3f780d68
