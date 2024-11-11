@@ -100,3 +100,11 @@ lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 Added.tv, 3d20ca0f, RESELLER
 zmaticoo.com, 5135082, RESELLER
 zmaticoo.com, 113149, RESELLER
+
+#Vendedores AdGeneration
+ad-generation.jp, 14199, DIRECT, 7f4ea9029ac04e53
+ad-generation.jp, 14199-2, RESELLER, 7f4ea9029ac04e53
+pubmatic.com, 158357, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 5444561541445527220, RESELLER, 29bc7d05d309e1bc
+rhythmone.com, 5444561541445527220, RESELLER, a670c89d4a324e47
+xandr.com, 8449, RESELLER
